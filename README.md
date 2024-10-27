@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<https://deploy-this-repo-devin-c8vv6w3l6-devin-ngos-projects.vercel.app/>
+<https://deploy-this-repo-devin-ngo.vercel.app/>
 
 
